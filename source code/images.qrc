@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/CoverMain.png</file>
+        <file>images/rideCar.png</file>
+        <file>images/createRide.png</file>
+        <file>images/profile.png</file>
+        <file>images/Rose.png</file>
+        <file>images/Moonrise.png</file>
+        <file>images/Mystic.png</file>
+        <file>images/road2.png</file>
+        <file>images/color.png</file>
+        <file>images/white.png</file>
+        <file>images/people.png</file>
+        <file>images/licence.png</file>
+        <file>images/car.png</file>
+        <file>images/manual.png</file>
+        <file>images/suitcase.png</file>
+        <file>images/DirtyBeauty.png</file>
+        <file>images/blue.png</file>
+        <file>images/rose2.png</file>
+        <file>images/search.png</file>
+    </qresource>
+</RCC>
