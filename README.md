@@ -1,6 +1,6 @@
 ## Car Rental System
 
-![image](https://github.com/Ellie-Y/CarRentalSystem/blob/master/Sample%20video.gif)
+<img src = "https://github.com/Ellie-Y/CarRentalSystem/blob/master/presentation.gif" width = "600px" />
 
 
 
